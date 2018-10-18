@@ -1,0 +1,2 @@
+# JSFactorial
+weird JS factorial
